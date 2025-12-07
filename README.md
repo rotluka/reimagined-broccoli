@@ -9,4 +9,4 @@ To je moj prvi reposetory na github-u!😄
   -kako uporabljati commit-e
 
 ##Ena zabavna stvar o meni
-Moj najljubši okus sladoleda je vanilija
+Moj najljubši okus sladoleda je vanilija.
